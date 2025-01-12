@@ -25,7 +25,7 @@
 
 
 .hero{
-    background: linear-gradient(0.00deg, rgb(9, 9, 9) 2.884%,rgba(16, 16, 16, 0) 101.034%),url("../make-essential-UI-components-Resources/assets/hero-bg.png");
+    background: linear-gradient(0.00deg, rgb(9, 9, 9) 2.884%,rgba(16, 16, 16, 0) 101.034%),url("../make-essential-UI-components-Resources-main/assets/hero-bg.png");
     background-position: center;
     background-size: cover;
     height: 894.187px;
