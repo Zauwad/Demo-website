@@ -1,0 +1,1 @@
+ I will mark these things before working then it will be easier. and use figma on designs

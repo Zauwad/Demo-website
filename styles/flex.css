@@ -1,0 +1,28 @@
+.parent{
+    background-color: bisque;
+    display: flex;
+    gap: 20px;
+    
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    
+    /* height: 300px; */
+    align-items: center;   
+    
+    flex-direction: column;
+    /* flex-direction: row-reverse; */
+
+    flex-wrap: wrap;
+
+}
+
+.child{
+    background-color: lightcoral;
+    /* display: block; */
+    margin: 0px;
+    border: 2px solid black;
+    font-size: 35px;
+    padding: 5px;
+}
